@@ -13,6 +13,8 @@
         <module>changgou-server</module>
         <module>changgou-server-api</module>
         <module>changgou-eureka</module>
+        <module>server-goods</module>
+        <module>server-goods</module>
     </modules>
 
     <description>
