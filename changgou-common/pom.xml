@@ -12,10 +12,11 @@
     <artifactId>changgou-common</artifactId>
 
     <description>
-        工具工程，web工程可以依赖该工程
+        公共工程
     </description>
 
     <dependencies>
+
         <!--web起步依赖-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -47,6 +48,7 @@
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
         </dependency>
+
     </dependencies>
 
 </project>

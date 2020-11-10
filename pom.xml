@@ -10,11 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>changgou-common</module>
-        <module>changgou-server</module>
-        <module>changgou-server-api</module>
+        <module>changgou-service</module>
+        <module>changgou-service-api</module>
         <module>changgou-eureka</module>
-        <module>server-goods</module>
-        <module>server-goods</module>
+        <module>changgou-common-db</module>
     </modules>
 
     <description>
